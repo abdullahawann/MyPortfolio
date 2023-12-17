@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/img2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "This picture shows how humans and machines are working together";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WordWhiz",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This website allows you to analyze text and provides you with a summary of the inputted text.",
+    url: "https://abdullahawann.github.io/Word-Whiz-Website/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My GPT",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It serves as a showcase of my skills in web development and design, utilizing the power of React and various other technologies.",
+    url: "https://abdullahawann.github.io/GPT3/",
   },
   {
-    title: "My Resume Site",
+    title: "Space Invaders",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a reimplementation of the classic arcade game, Space Invaders, using C++.",
+    url: "https://github.com/abdullahawann/Space-Invaders",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Snakes And Apples",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Snakes and Apples is a simple yet addictive game implemented in assembly language.",
+    url: "https://github.com/abdullahawann/Snakes-And-Apples",
   },
 ];
 
